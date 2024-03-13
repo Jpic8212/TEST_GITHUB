@@ -1,2 +1,6 @@
 This are the notes for testing.
+<<<<<<< HEAD
 Este es un cambio local en Visual Studio Code
+=======
+Cambio en Consola WEB GITHUB
+>>>>>>> 137d19f3814acba62d8cced4e77b9382e44f0676
